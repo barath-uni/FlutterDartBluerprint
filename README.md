@@ -16,3 +16,7 @@ Once the resources are filled up(Expect atleast 50 links in total), converet thi
 GOALS
 
 If you like the use of this REPO, Dont forget to leave a Star. 25 stars will be the goal!!
+
+Update (28/07/2022)
+After almost 3 years it is good to see that the repository is still getting "stars". However, I have not been actively adding any links. 
+For those who want to support this repo with PRs, please go ahead.
